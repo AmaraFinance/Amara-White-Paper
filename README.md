@@ -1,7 +1,3 @@
 # Amara-White-Paper
 Amara Finance whitepaper v0.9-Updated in May 2021.
-Amara: Polkadot-based multi-chain asset lending platform.
-Amara seamlessly connects popular cryptocurrency in the market via low-friction value transmission. 
-Capture high-quality long tail assets, release the liquidity of long tail assets, extend DeFi to new border.
-
-
+Amara is a multi-chain assets lending protocol within the Polkadot ecosystem, focusing on open, privacy preserved, multi-chain lending markets.  Amara seamlessly connects mainstream digital assets and top rated long tail assets that improves overall liquidity and expand the DeFi horizon.  To achieve these goals, one of the top priorities would be building the bridge based on TEE trusted computing.Eventually, we want to become the hub of lending and exchange in the crypto world.
